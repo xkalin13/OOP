@@ -1,0 +1,13 @@
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\bin\Debug\netcoreapp3.1\cv5.exe
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\bin\Debug\netcoreapp3.1\cv5.deps.json
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\bin\Debug\netcoreapp3.1\cv5.runtimeconfig.json
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\bin\Debug\netcoreapp3.1\cv5.runtimeconfig.dev.json
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\bin\Debug\netcoreapp3.1\cv5.dll
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\bin\Debug\netcoreapp3.1\cv5.pdb
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\obj\Debug\netcoreapp3.1\cv5.csprojAssemblyReference.cache
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\obj\Debug\netcoreapp3.1\cv5.AssemblyInfoInputs.cache
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\obj\Debug\netcoreapp3.1\cv5.AssemblyInfo.cs
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\obj\Debug\netcoreapp3.1\cv5.csproj.CoreCompileInputs.cache
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\obj\Debug\netcoreapp3.1\cv5.dll
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\obj\Debug\netcoreapp3.1\cv5.pdb
+C:\Users\honza\Desktop\Škola\OOP\cv5\cv5\obj\Debug\netcoreapp3.1\cv5.genruntimeconfig.cache
