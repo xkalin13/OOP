@@ -1,0 +1,13 @@
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\bin\Debug\netcoreapp3.1\cv7.exe
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\bin\Debug\netcoreapp3.1\cv7.deps.json
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\bin\Debug\netcoreapp3.1\cv7.runtimeconfig.json
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\bin\Debug\netcoreapp3.1\cv7.runtimeconfig.dev.json
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\bin\Debug\netcoreapp3.1\cv7.dll
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\bin\Debug\netcoreapp3.1\cv7.pdb
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\obj\Debug\netcoreapp3.1\cv7.csprojAssemblyReference.cache
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\obj\Debug\netcoreapp3.1\cv7.AssemblyInfoInputs.cache
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\obj\Debug\netcoreapp3.1\cv7.AssemblyInfo.cs
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\obj\Debug\netcoreapp3.1\cv7.csproj.CoreCompileInputs.cache
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\obj\Debug\netcoreapp3.1\cv7.dll
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\obj\Debug\netcoreapp3.1\cv7.pdb
+C:\Users\honza\Desktop\Škola\OOP\cv7\cv7\obj\Debug\netcoreapp3.1\cv7.genruntimeconfig.cache
