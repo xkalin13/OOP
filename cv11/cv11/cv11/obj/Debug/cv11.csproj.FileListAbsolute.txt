@@ -1,0 +1,9 @@
+C:\Users\honza\Desktop\Škola\OOP\cv11\cv11\cv11\bin\Debug\DatabazeVyuka.mdf
+C:\Users\honza\Desktop\Škola\OOP\cv11\cv11\cv11\bin\Debug\DatabazeVyuka_log.ldf
+C:\Users\honza\Desktop\Škola\OOP\cv11\cv11\cv11\bin\Debug\cv11.exe.config
+C:\Users\honza\Desktop\Škola\OOP\cv11\cv11\cv11\bin\Debug\cv11.exe
+C:\Users\honza\Desktop\Škola\OOP\cv11\cv11\cv11\bin\Debug\cv11.pdb
+C:\Users\honza\Desktop\Škola\OOP\cv11\cv11\cv11\obj\Debug\cv11.csprojAssemblyReference.cache
+C:\Users\honza\Desktop\Škola\OOP\cv11\cv11\cv11\obj\Debug\cv11.csproj.CoreCompileInputs.cache
+C:\Users\honza\Desktop\Škola\OOP\cv11\cv11\cv11\obj\Debug\cv11.exe
+C:\Users\honza\Desktop\Škola\OOP\cv11\cv11\cv11\obj\Debug\cv11.pdb

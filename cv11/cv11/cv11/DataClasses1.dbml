@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DatabazeVyuka" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DatabazeVyuka.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="cv11.Properties.Settings" SettingsPropertyName="DatabazeVyukaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Classes" Member="Classes">
+    <Type Name="Classes">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="studentId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="lessonId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Lessons_Classes" Member="Lessons" ThisKey="lessonId" OtherKey="Id" Type="Lessons" IsForeignKey="true" />
+      <Association Name="Students_Classes" Member="Students" ThisKey="studentId" OtherKey="Id" Type="Students" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Lessons" Member="Lessons">
+    <Type Name="Lessons">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="shortName" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="Lessons_Classes" Member="Classes" ThisKey="Id" OtherKey="lessonId" Type="Classes" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Grades" Member="Grades">
+    <Type Name="Grades">
+      <Column Name="studentId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="shortName" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="gradeValue" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="dateOfGrade" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Students" Member="Students">
+    <Type Name="Students">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="surname" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="birthday" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="Students_Classes" Member="Classes" ThisKey="Id" OtherKey="studentId" Type="Classes" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ClassesView" Member="ClassesView">
+    <Type Name="ClassesView">
+      <Column Name="lessonId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StudentCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="shortName" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
