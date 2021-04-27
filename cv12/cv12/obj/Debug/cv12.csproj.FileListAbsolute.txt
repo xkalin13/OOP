@@ -1,0 +1,7 @@
+C:\Users\honza\Desktop\Škola\OOP\cv12\cv12\bin\cv12.dll.config
+C:\Users\honza\Desktop\Škola\OOP\cv12\cv12\bin\cv12.dll
+C:\Users\honza\Desktop\Škola\OOP\cv12\cv12\bin\cv12.pdb
+C:\Users\honza\Desktop\Škola\OOP\cv12\cv12\obj\Debug\cv12.csprojAssemblyReference.cache
+C:\Users\honza\Desktop\Škola\OOP\cv12\cv12\obj\Debug\cv12.csproj.CoreCompileInputs.cache
+C:\Users\honza\Desktop\Škola\OOP\cv12\cv12\obj\Debug\cv12.dll
+C:\Users\honza\Desktop\Škola\OOP\cv12\cv12\obj\Debug\cv12.pdb
